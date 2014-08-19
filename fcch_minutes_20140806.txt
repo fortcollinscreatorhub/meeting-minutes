@@ -1,0 +1,162 @@
+Fort Collins Creator Hub meeting minutes
+2014/08/06 7pm @ Wild Boar
+
+= Business
+
+- We have filed with the state, and have our EIN.
+
+- We have started working on bylaws.
+
+- We need to officially elect a board/officers and adopt our bylaws.
+
+  People standing for positions:
+  President: Ben
+  Secretary: StephenW
+  Treasurer: Curt
+  VP: StephenU volunteered, those attending approved.
+    Description:
+    - Stands in for P if not attending
+    - Typically committees report to VP
+
+  Should have at least 1 more. "Member at large"? (someone not an officer,
+  but a member of the board). Diverse. Keep an odd number for tie-breaks.
+
+  Will amend articles/bylaws with those positions.
+
+  AI: Everyone/board at next meeting: Board to officially ratify the board
+  membership and bylaw text.
+
+= Finance
+
+- Bank account already set up, contains $20.
+- Can start accepting donations/...
+- Proposed: We should get a Paypal, Square, ... account
+  - Curt: Hard to track Square at least; might not be good
+  - Brad: Paypal has bad business policies (freezing accounts)
+  - Curt looking into the options
+
+Question raised: Are people willing to donate some money to cover various misc
+fees, like room rentals, Maker Faire registration, etc.? Generally affirmative.
+
+Should we have founding members, who donate a larger amount at the start? Seems
+like a good idea. Perhaps $300; has worked at other spaces. Why? Need to fund
+first few months of rent, tool purchases, insurance, business registration,
+domain fees, etc. without the worry of month-to-month issues initially. How
+long to offer this? Depends on many factors like how many founders we want, how
+much rent is, etc.
+
+AI: Curt: Work on budget. (Will drive how we define founder fees.)
+
+= Educational outreach
+
+== Arduino class
+
+- Steve giving Arduino class 8/23 at the Harmony library.
+- Mark offered 10 laptops for use.
+- StephenW offered to borrow 10 SIKs from LCS, Steve borrowing the rest from
+  work.
+
+  AI: anyone/everyone: Volunteer to help setting up, tearing down, assist class
+  more than welcome. Comment on the meetup event to volunteer.
+
+== Min Make Faire
+
+- October 4-5 in Loveland.
+- We're getting a free 10x20 space w/ 2 8' tables & chairs.
+- Paid $25 for extra power outlets.
+- Can rent extra tables, for a fee.
+- 8 free entry passes.
+- Setup is on Friday.
+- Intend to run a child-oriented activity:
+  - Brushbots?
+  - Kids drawn in by projectiles...
+
+AI: Mark Schreiber was volunteered to organize the activities.
+AI: Dan to assist.
+
+AI: Nearer the time: Need a volunteer list for booth staffing, setup and
+teardown.
+
+AI: StephenU: to check on can we bring our own extra tables, or have to rent
+from the organizers.
+
+AI: Erik: proposed he give a bike maintenance class. Perhaps early-mid Sep, on
+a Sunday. Need to setup this up (find space, add to meetup).
+
+AI: StephenW: volunteered to re-do all the classes he's done @ LCS. Need to
+setup this up (find space, add to meetup).
+
+= Space/location
+
+- Brad mentioned available space for classes in old-town.
+- http://www.artlabfortcollins.com/
+- Check website for their calendar. Email them at the address on their
+  site to ask for space.
+
+- Carnegie building: No update available.
+
+= Web/social media
+
+- Facebook is set up.
+
+- Arduino class advertized in FC newspaper.
+
+- Still working on logos; progressing.
+- Hopefully available for vote next meeting.
+- There was a request to post the images on meetup to allow voting quickly
+  rather than waiting until next meeting. 
+
+AI: Diana: post the potential logos to meetup and set up voting when they
+are ready.
+
+(Not quite serious) Proposed: everyone make their own shirt as membership
+requirement:-)
+
+= Two questions from Sierra
+
+- Answers will help inform the branding.
+
+- Encourage people to send responses directly (e.g. meetup forum post) so I'm
+  not interpreting them.
+
+1) What 1 word would you use to describe the space?
+Some answers at the meeting:
+- Nebulous. Virtual.
+- Community. Sharing. Workshop. Knowledge. Experience.
+- Look at profile responses on meetup; similar Q was asked there.
+
+2) List the 3 most important things about the space.
+Some answers at the meeting:
+- Community. Not just a place to go by yourself. Shared space/resources.
+- Teaching. Learning. Outreach. Stop people being afraid of science/math.
+  Mentorships and/or someone to bounce ideas off.
+- More than just a virtual thing, physical space since people don't have it
+  themselves. Tools/equipment.
+- Open & inviting. Easy to have fun. Whether someone makes things or not isn't
+  an issue.
+- Cross-pollination. See what others are doing & get inspiration. Sharing
+  ideas.
+- Diversity. People & areas of interest. Fabric, welding, plasma cutter, yarn
+  bombing, all together/intersecting. Not just a bunch of geek buys. Go
+  outside the box. Kids able to get involved. Support things you're not
+  personally interested in to grow diversity.
+- Want to push the technology forward. 3D printing w/metal not just plastic.
+  Scaling tools to the next level. Self-replicating tools.
+- Proximity (nearer than Loveland/Longmont).
+
+= Tinkermill visit
+
+We're visiting Tinkermill's fairgrounds location 8/10 at 2pm
+http://www.tinkermill.org/
+1840 Delaware Place, Longmont, CO 80501
+
+The idea is to get inspired by seeing a successful existing space in action.
+
+We will meet at College/Harmony Max transport station 1pm Sun 8/10 to carpool.
+
+AI: StephenW post park/ride info on meetup.
+
+= Misc
+
+Need list of AIs in minutes.
+(hopefully inline as they are here is fine; they are all prefixed with "AI:")

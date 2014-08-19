@@ -1,0 +1,95 @@
+Fort Collins Creator Hub meeting minutes
+2014/07/23 7pm @ Wild Boar
+
+= Educational Outreach Committee Report
+
+Steve reached out to Poudre Library re: doing a class. Easy to get space there
+for classes, meetings. 3 month lead time on getting access to their computer
+lab. Definitely interest in maker spaces from some library employees; they'd
+been looking into maker spaces themselves.
+
+Maker Faire: Steve wasn't sure he was "authorized" to fill out the application
+form for the space himself. Informal vote OK'd Steve simply filling out the
+form. Note: request to be next to LCS. Deadline ~2 months in advance of event.
+
+Dolly and a booth were offered.
+
+Will we do a workshop or activity. Squishy circuits proposed (Potential
+duplication with other groups)? Block printing? Build a structure?
+
+= Social Media Committee Report, Outreach
+
+Domain reserved (fortcollinscreatorhub.org, and some similar ones). A website
+preview @ "livesite" demo'd. Hosting cost ~$84/year.
+
+How will administration work? Sounds like multiple accounts can be created for
+admin, content-generators (bloggers, ...).
+
+Email aliases should be set up so people can contact us in general, list
+aliases for the board, etc..
+
+Can calendars be exported to e.g. smart phones? Needs investigation. If not,
+we can simply use e.g. Google Calendar directly, and embed it into a custom
+page.
+
+Brad set up a mailing list and forum(?) at resoma(?). These might duplicate
+meetup functionality.
+
+Should we have a booth at New West Fest? Probably too late for this year,
+but perhaps we could: Walk around with placards or T-shirts with our name or
+have library/city booth give flyers away?
+
+= Articles of Incorporation / Bylaws
+
+Eric has a draft in a Google doc, and wants to start work on incorporation and
+CO non-profit status ASAP.
+
+Erik can get free/cheap legal advice on 501c3 application via family. Probably
+~2 months to get the application created, easily 9 months for the whole process.
+
+= Meeting with City's Director of Cultural Services
+
+2 Fridays ago. Expressed interest in group. City generally interested in spaces,
+want to be supportive.
+
+= Location/Space
+
+Breaking news:
+
+City is considering allowing us to occupy space in old museum building. Exactly
+what this means needs to be discovered/defined.
+
+Things to think about: Power? Compatibility with the other tenants (e.g. art
+studio, ...). Great location. Some renovation probably needed, e.g. sound-
+proofing? Any restictions on access hours, or the membership types or
+activities allowed?
+
+Potential lead w/ Tod Simmonds @ Wolverine Farms (plus Matter book store, Bean
+Cycle) for space too. They have a new building in progress; perhaps we could
+share or borrow some space. Alignment on craft-oriented activities etc.
+
+Owner of Mugs was suggested for community funding too.
+
+= Classes
+
+Various offers to teach them: Arduino intro, copper-tape circuits, I (swarren)
+could repeat the classes I've given at LCS... 
+
+When should we start? Lead time on advertizing classes: Probably want 3-6
+weeks so we can get the word out. Advertize on Facebook (need to get it set up
+first) and by word of mouth.
+
+Perhaps a partnership on some activities at the museum/library, but more
+organizational setup/definition needed to enable this, so so we seem more
+official.
+
+= Meetings
+
+Perhaps do an informal show & tell or workshops at our meetings, or at
+additional meetings. We can advertize this to a wider audience and it might
+bring more people in.
+
+If we held an event/meeting like this at the museum, it might be easier to
+set up even before we have the organizational structure worked out. There
+would be some lead time for this, but we'd get a lot free publicity and
+exposure.

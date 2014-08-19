@@ -1,0 +1,95 @@
+Minutes from the 20140625 planning meeting for Fort Collins Hackerspace
+Held 7pm FCMOD (408 Mason Court, Fort Collins)
+
+These minutes are somewhat out of order relative to the meeting; we jumped
+around a bit, and I re-ordered to highlight what I thought were important
+parts.
+
+= Next meeting
+
+Wed Jul 2nd 7pm
+Location TBD, see meetup
+
+= Choosing our name
+
+We started with the list of names proposed at our first meeting, and whittled
+the list down by eliminating entries that didn't work or people didn't like
+until we had a manageable list for a vote. The remaining options were:
+
+- FoCo Creates!
+- Creator Hub
+- Fort Collins Maker Space
+- Idea Foundry
+- Maker Forge
+
+AI Ben: Set up poll on meetup. It will run for approx. 1 week, ending soon
+before our next meeting, where we intend to ratify the name.
+
+= Board creation
+
+The following people volunteered to be on the board. Specific positions and
+time-frame are not decided, except secretary. It was mentioned that the initial
+board need not last a full term (which is undefined at present), but could be
+re-elected once we get more established.
+
+Ben Gondrez
+Dan Brown
+Gretchen Maculo
+Jim Zdunek
+Renee Mensing
+Stephen Undy
+Stephen Warren (secretary)
+
+= What is the group/space
+
+- Education (especially children) mentioned multiple times
+- Access to tools/equipment
+- Learn new skills (internal classes)
+- Do it together, community, shared projects
+- Encourage others to learn, join
+- Go outside space to advocate, hold classes?
+
+= Monetary structure of group
+
+- Affects structure of board, positions
+- For profit?
+-- There's a recent trend for some community groups to go for-profit (simpler?)
+- Non-profit?
+-- Easier to get donations, tax deductions
+
+Attendees seemed generally in favor of non-profit.
+
+= Is FC in competition with Loveland CreatorSpace
+
+- No; LCS got started with help from Tinkermill will pay it forward
+- LCS definitely wants other spaces to succeed, grow a community
+- Some fear re: loss of revenue
+- There has been some discussion of cross-membership amongst CO Maker Spaces,
+  but nothing is in place yet
+
+= Contacts or useful people to talk to
+
+It was suggested to defer some contacts until our name is solidified. This
+will give people a specific name to latch on to.
+
+- Need to contact all the different CSU spaces
+  Get them to meetings for cross-pollination etc.
+  Some CSU spaces are outreach, not internal
+  Renee to contact the outreach space.
+- Rocky Mountain Innosphere
+  Renee(?) to contact
+- United Way; lots of linking volunteers w/ people needing them
+- SBDC: Small Business Development Center 970 498 9295
+- Wolverine
+  Dan to contact
+- Ben talking to city re: creative district. Can we be involved?
+- Stephen talked to Russ Cuniff (city council member). Not sure what will
+  come out of this yet.
+
+= Where to upload the minutes:
+
+- Long term: github or Google docs?
+- Short term: investigate files area on meetup
+
+AI Ben: talk to Cody re: board members having meetup.com admin ability or
+whatever is appropriate.
