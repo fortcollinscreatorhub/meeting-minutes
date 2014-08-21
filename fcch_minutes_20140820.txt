@@ -1,0 +1,131 @@
+Minutes of the Fort Collins Creator Hub meeting
+2014/08/20 7pm, Daz Bog coffee shop
+
+Visitor Mike Croswell from the Fort Collins Game Developers group visited to
+see what we were about. They meet on 2nd Mondays at Avo's 6:30-8pm.
+
+= Committee Check-in 
+
+== Finance
+
+Bank account still has $20 in it.
+
+Ben wondering about a "community funded" campaign (similar to Kickstarter).
+Possible benefits over Kickstarter: Lower fee (2%), no "don't meet your goal"
+issue (although that may not apply to non-profits on Kickstarter anyway).
+
+Discussion re: length of time to get 501c3: a year sounds likely. Can we use
+another as an umbrella? Ben/Curt researching options for that.
+
+== Web / Social media 
+
+Facebook is set up. Google+ coming next.
+
+Need content: Please send info on project/photos/videos to Diana Sproul
+<Diana@SproulCreative.com>.
+
+A press release was sent out for the Intro to Arduino class. A poster is
+posted in all libraries.
+
+AI: Diana: do the same for Intro to Electronics class.
+
+AI: Stephen: send Diana a bio+email+phone for poster for Intro to Electronics
+class.
+
+== Logo / Branding 
+
+Some options are ready. Samples on paper were shown.
+
+AI: Diana/Sierra: Post the proposed logos to meetup site for everyone to see,
+along with a poll to enable all members to vote. Hopefully this weekend, so
+voting can finish before next meeting.
+
+== Location
+
+Technically no committee set up yet. We should form one!
+
+Carnegie building (old museum location) update: None yet (Jill Stilwell @ city
+on vacation?). Might be available as a classroom space unrelated to whether we
+rent it.
+
+Got a tip-off about a ~$5k s.f. warehouse near old airport. ~$6+/s.f./year,
+so rather expensive once it's multiplied up (~2700/month). Need to add NNN and
+renovation/start-up costs too (we'd need to pay for a new electric drop for
+example).
+
+Ki volunteered a potential classroom space (somewhere near old skate park)
+that's being developed for an arts organization. Not developed yet, but
+hopefully soon. If we were to schedule a class there, that would provide
+incentive to get the space ready.
+
+AI: Ben visting the space Ki offered to see what it's like.
+
+Planning what equipment we want:
+- Initially lots of it will be donations.
+- Don't want to over-specialize to avoid turning some people off.
+- Some activities not compatible with others in the same space; need multiple
+  rooms, ventilation, dust collection, noise abatement, etc.
+- Start with broad set of basic tools to appeal to many, then get more advanced
+  stuff later?
+- Should generate a priority list of equipment and activities.
+
+AI: Mike to set up a list on meetup to allow to suggest what they want. Later,
+make it into a poll to enable prioritization.
+
+== Education / Outreach
+
+Two classes already scheduled:
+
+=== Intro to Arduino class
+
+Sat 8/23 at Harmony library. Room booked from 11am for setup. 12pm class start.
+
+Need help with:
+- Setup, and tear down.
+- Assistants during class.
+- Taking photos for publicity.
+  ***Make sure you get permission and mention posting to social media site***
+
+Software install available at http://arduino.cc/ if you want to put it on your
+own machine.
+
+=== Intro to Electronics class.
+
+Sun 9/7 at Old Town library. Room booked from 2pm for setup. 2:15pm class
+start.
+
+(Might move to the space Ki offered, if it's suitable).
+
+Please publicize to friends in person and on social media, etc.
+
+= Bylaws / Board of Directors 
+
+== Discuss and develop Member at Large position
+
+One suggestion was to have a person responsible for each activity to champion
+resources for that activity. Some other spaces do have this.
+
+== Hopefully finalize draft and accept
+
+Ben/Erik working on incorporating the comments on the bylaws. Voting on them
+postponed until that work is complete.
+
+== Fill vacant board positions and ratify 
+
+Postponed per the above.
+
+= Maker Faire
+
+We're attending. All booked. Mark Schreiber working on planning activities.
+
+We should take photos for publicity.
+***Make sure you get permission and mention posting to social media site***
+(although people may already have signed a release to enter the faire)
+
+= Any other business
+
+None.
+
+= Next meeting
+
+In 2 weeks time, location TBA.
