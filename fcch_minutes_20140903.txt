@@ -1,0 +1,126 @@
+Minutes of the Fort Collins Creator Hub meeting
+2014/09/03 7pm, Jukebox Quilts
+
+Ben couldn't make it; SteveU presiding.
+
+= Committee Check-in
+
+== Finance
+
+No change to bank account to report.
+
+Hoping to set up donation button on website soon. To support this, we need to
+pick a payment processor. We'll also need one for invoicing and/or accepting
+monthly dues when the time comes.
+
+AI: Curt to investigate payment-processing options, and provide a report to
+the group next meeting.
+
+First Bank will take donations in person without the donor needing to know
+FCCH account details.
+
+Discussion re: founders fees. Curt: Too early to recommend a target number of
+people and/or an amount. We need to get a business plan in place to project
+what we need.
+
+== Education
+
+Intro to Arduino class held 8/23. ~13 attendees out of 15 signed up. At least
+2 people found out via newspaper. Publicity is working:-)
+
+Intro to Electronics class being held 9/7. See meetup.com for details.
+http://www.meetup.com/Fort-Collins-Creator-Hub/events/200236232/
+
+== Location
+
+Volunteers for location committee:
+Stephen Warren
+Curt
+Doug Drees
+Mike
+Jon Lotz
+
+We need an objective way to compare potential locations. The business plan will
+drive some of this.
+
+AI: Mike: Set up poll on meetup to find out what people want out of the space.
+
+Question: Is a distributed space viable (e.g. 1 location for Arduinos, another
+for classes, another for a wood shop, etc.)? No conclusion at present.
+
+The basement at Jukebox Quilts is available. We viewed the space. It's ~1800
+square feet. Currently has a bulit-in dark room. Venting might be available.
+24-hour access might be available. Rent: make an offset.
+
+Doug mentioned a warehouse/school location he knows of near the old air park.
+
+Update on Carnegie building: Jill (at the city) has been on vacation. She's
+still talking to people. No real update yet.
+
+AI: Everyone: Send any information you have about potential locations
+(address, web link, contact details, etc.) to:
+Stephen Warren <swarren@wwwdotorg.org>
+
+AI: StephenW: Create some repository/document to collate the potential
+location information.
+
+== Social
+
+AI: Everyone: Go and vote on logo choice ASAP. See request on meetup.com.
+
+Options are:
+http://www.meetup.com/Fort-Collins-Creator-Hub/photos/24091962/
+
+Sent your vote (for up to 3 choices) to:
+Sierra Tamkun <sierra.tamkun@gmail.com>
+
+Still need content (project blogs, pictures, etc.) to put on the website.
+Any kind of examples of projects people are working on. Send your photos,
+videos, and write-ups to:
+Diana Sproul <diana@sproulcreative.com>
+
+AI: Ben: Add link to our website (www.fortcollinscreatorhub.org) to the
+"About us" link/popup on meetup.com.
+
+= Maker Faire
+
+Booth is booked.
+
+10 entry bands are included, for booth staffing.
+
+Variety of activities would be good.
+- Squishy circuits (conflict: the library will be doing this).
+- Paper rockets.
+- Marshmallow/toothpick structures.
+- Let people program Arduinos.
+Send ideas to Mark.
+
+Need a donation jar at the booth, and online donations to be set up.
+
+Handouts with our information needed.
+
+AI: Mark to set up volunteer sign-up sheet (set-up, booth staff, tear-down).
+
+AI: Mark to finalize list of activities by next meeting.
+
+= Bylaws
+
+Google Docs folder:
+https://drive.google.com/folderview?id=0B_ux2VNo1Y5qcVNqeWFoaHU3TzA&usp=sharing
+
+Bylaws document:
+https://docs.google.com/document/d/1_6suj9VPslPi8EptEzGPS8mbTcAW7ht1VwG74RNPJhM/edit
+
+AI: Everyone: Please read and comment on the bylaws on the Google doc.
+
+Still a number of comments outstanding on the Google doc.
+
+AI: Erik: Set up a bylaw review meeting finalize them.
+
+= Fewer meetings?
+
+Suggested: Monthly general meetings. Bi-weekly board meetings only.
+- Might increase attendance at general meetings?
+- Allows planning/board meetings to be more focused.
+
+No conclusion, some support, and no strong resistance.
