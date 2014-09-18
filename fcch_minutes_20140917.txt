@@ -1,0 +1,142 @@
+Minutes of the Fort Collins Creator Hub meeting
+2014/09/17 7pm, Carnegi building, Mugs coffee shop
+
+Provisional Board Members present:
+Ben Gondrez
+Stephen Warren
+Steve Undy
+Curt Oliver
+and many other members
+
+= Carnegie building tour
+
+Huge class-room space available. This would be shared space. I believe we
+could use this (now?) irrespective of where we set up our space.
+
+A couple of other rooms available for the maker space itself.
+
+Right next to a TV studio though; potential noise issues.
+
+= Final logo selection
+
+Options 5 and were the most popular in the previous vote.
+
+As a reminder, the options were:
+http://www.meetup.com/Fort-Collins-Creator-Hub/photos/24091962/
+
+Voted 5:2 for logo option 8 over option 5
+
+= Other events in the community
+
+The library district has received a grant (in conjunction with the city) for
+the creation of maker space. This will be targetted at under-served youth
+specifically. I believe this is an extension of their existing mobile maker
+space program.
+
+= Bylaws & related
+
+Erik set up a working meeting to work on the bylaws. During the meeting, we
+started re-structuring the bylaws, getting about 1/3 of the way through.
+Notable changes were made based on previous feedback:
+
+- Members elect a Board. Board membership doesn't imply a specific title.
+- Board self-organizes to elect Officers (President, VP, etc.).
+- Clarification of details such as voting rules, definition of a member, etc.
+- Various consistency fixes.
+- Various formatting cleanup.
+
+Another working meeting was held the next day, and we're now roughly 1/2 to
+2/3 of the way through the editing process. Another working meeting will be
+held 9/18.
+
+To move the whole Creator Hub process forward, we will:
+- Finalize the proposed bylaws in working meetings.
+- Distribute the proposed bylaws to the Board for initial approval. We intend
+  this to be complete by the next meeting.
+- Post the proposed bylaws, and announce a public comment period to the general
+  membership. This period will likely run for a couple of weeks.
+- Incorporate any feedback into an updated version of the proposed bylaws.
+- Subject the proposed bylaws to a yes/no vote by the general membership.
+
+AI: Stephen/Curt: Hold the working meeting to finalize the proposed bylaws.
+
+We will send an email to all FCCH Members on Meetup.com announcing the meeting
+date and location. As part of that email, we will also announce a survey to
+find out what activities and equipment people consider mandatory in order to
+pay founders fees, start paying monthly membership fees, and continue to pay
+monthly membership fees.
+
+AI: Ben: Create this survey, e.g. on Google Forms. This should be ready in the
+same time-frame as the proposed bylaws, so they can be announced in a single
+message to all members.
+
+We also intend to do the following at the meeting where the bylaws are voted
+upon:
+- Vote in the Board.
+
+AI: Erik (and Ben?): Work on writing a business plan.
+
+= Finance
+
+Should we add payment button to meetup, e.g. to accept founding member
+contributions?
+
+Curt asserts: Better to first adopt bylaws, get Board in place, create
+business plan before accepting donations.
+
+Should we solicit or accept donations at Maker Faire?
+
+Decided it wasn't really the focus of the Maiker Faire. Instead, it's better
+to get people interested in the space, signed up to meetup.com etc., so they
+get involved and/or are aware of our activites. Donations/fees can come once
+we're closer to having a physical space.
+
+Discussed various payment options for website, founders fees, etc. PayPal,
+WePay, Stripe, Amazon, Square, Intuit, ... Suggested PayPal or Stripe.
+
+StephenW noted that Loveland CreatorSpace had serious issues using QuickBooks
+online, and was planning to switch to their desktop application soon.
+
+AI: StephenW: Send LCS treasurer's contact info to Curt to discuss QuickBooks
+issues.
+
+= Location
+
+StephenW collected information re: some potential locations in Google docs,
+
+StephenW attempted to contat some realtors to start the conversation. Not
+much luck yet, but will keep tryin.
+
+Curt contacted the realtor for 320 Maple. Apparently it's off the rental
+market now; the space is only for sale (~1.5m!)
+
+AI: StephenW: Update Google Doc with that info.
+
+Ben has lead on a friend's space near old airport.
+
+AI: Ben: Add that info to the Google Doc once he has more details.
+
+Carnegie & Jukebox Quilts locations: shared entrance isn't optimal; likely
+imposes some restrictions on use/access.
+
+= Maker Faire
+
+Mark showed off his prototype for the Maker Fair activity. Laser cut
+interlocking cardboard pieces that people will use to create a scultpure:-)
+Some details are in his mailing list post, although unfortunately the archive
+stripped his photo attachments:
+
+http://www.meetup.com/Fort-Collins-Creator-Hub/messages/74091662/
+
+AI: SteveU: Print survey re: people's expectations for the space on paper to
+take to Maker Faire, so we can canvas non-Members.
+
+AI: SteveU, Dan: Get vinyl sign made up for Maker Faire booth.
+
+AI: SteveU: Set up signupgenius to arrange volunteers to staff the booth.
+
+= Google drive (docs) reminder
+
+FCCH's Google drive folder is:
+
+https://drive.google.com/folderview?id=0B_ux2VNo1Y5qcVNqeWFoaHU3TzA&usp=sharing
