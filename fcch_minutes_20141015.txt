@@ -1,0 +1,108 @@
+Minutes of the Fort Collins Creator Hub meeting
+2014/10/15 7pm, Jukebox Quilts
+
+Provisional Board Members present:
+Curt Oliver
+Steve Undy
+Stephen Warren
+
+Excused:
+Ben Gondrez
+
+Various other members were present.
+
+= Maker Faire
+
+There were lots of great booths, and much to see.
+
+Lots of people from Fort Collins visited. Various members made contacts with
+interesting local companies (Lulzbot for cheap old 3D printers, a local
+3D printer/CNC company looking for beta testers, OtterCares foundation for
+funding, etc.)
+
+Booth staffing: More than 2 people at a time would be a good idea, so people
+can go see the show, handle the variable booth traffic, etc.
+
+= Spaces
+
+No progress; people have been busy.
+
+However, we're mostly holding off until our paperwork is all in place.
+
+It sounds like FCPAN (tenants of the Carnegie building) are actively expecting
+us to move in!
+
+AI: Brad: Talk to Ben ...
+AI: Jim: ... and the FCPAN contact to find out what's up the Carnegie
+building.
+
+= Communication
+
+Some meetup.com members weren't even aware we had a booth at Maker Faire! We
+need to be very pro-active to publicise the vote on bylaws and board.
+
+Suggest: We do the following to the next meeting:
+- Send to the mailing list
+- Use meetup's admin ability to email everyone
+- Post to meetup discussion forum
+- Create a specific meetup event for this, to make it obvious it's separate
+  from the regular bi-weekly meeting.
+
+AI: SteveU: Check if any library spaces are available for the meeting; we
+expect/hope a large number of people. Also check with Ben re: the museum.
+Or, find an alternate space. Ensure the meeting is publicized as above.
+
+= Bylaws
+
+We discussed various comments in the bylaws document, and resolved those
+comments. Nothing too contentious. A brief summary of the resolve comments:
+
+Comment: General Meeting needs 8 weeks notice, which we won't have the
+first time around.
+
+Resolution: The first time around, all Board Member positions will be vacant
+so we'll use the vacant Board Member clauses. The first General Meeting will
+be next year.
+
+Comment: Is 18 years of age too old as the minimum for a Member? What about
+responsible older children?
+
+Resolution: (voting) Members should be 18 years of age. The membership
+agreement (e.g. for a family membership) can contain a list of Members and
+other classes (e.g. Minors) of people associated with the Member(s). Members
+get the right to vote according to these bylaws. Minors are allowed into the
+space according to whatever rules we impose in the membership agreement, but
+cannot vote, and hence aren't explicitly mentioned in the bylaws.
+
+Comment: The President acting alone can trigger a meeting for Emergency
+Corporate Action. Is this too much power?
+
+Resolution: This doesn't give the President too much power, since to pass a
+resolution in the meeting, 50% of Members must vote to pass anything, and that
+50% could call a meeting anyway.
+
+Comment: Do we maintain quorum of Board Members if any Board Member(s) have a
+conflict of interest, and abstain from voting?
+
+Resolution: We reworded this section slightly. People who have abstained are
+still present, and hence quorum is maintained, if it already existed.
+
+Comment: Should we allow nominations for Board Members at the meeting to elect
+them?
+
+Resolution: Allowing people to stand for positions at the last minute is
+desired. We should make it easy for people to serve the organization.
+
+Comment: To become a Member, another Member must nominate/support them. Since
+we have no members, this is not possible.
+
+Resolution: Prior to the bylaws being adopted, they do not apply. For
+example, prior to the adoption of the bylaws, we could define a Member as
+anyone willing to sign a membership agreement. As soon as the bylaws are
+adopted, we will need everyone to have signed a membership agreement, since
+that's part of the bylaws. We should ensure that people do this at the
+meeting.
+
+AI: StephenW: Create initial (very bare) membership agreement to bootstrap the
+definition of Member once bylaws are voted in. Print this and bring it to the
+meeting.
