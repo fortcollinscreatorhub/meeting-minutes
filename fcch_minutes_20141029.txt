@@ -1,0 +1,59 @@
+Minutes of the Fort Collins Creator Hub meeting
+2014/10/29 7pm, Old Town Library
+
+= Member meeting
+
+== Members attending
+
+Provisional Board Members present:
+Ben Gondrez
+Curt Oliver
+Steve Undy
+Stephen Warren
+
+9 Members in total
+
+== Bylaws vote
+
+Should we accept the proposed bylaws?
+
+10 yes[*]
+0  no
+0  abstain
+
+* 9 present 1 of whom voted electronically beforehand, plus 1 additional
+  electronic vote, for a total of 8 votes cast at the meeting plus the
+  2 prior electronic votes.
+
+Approved!
+
+The approved version has been archived to a PDF in both Google Drive and the
+github minutes repository.
+
+== Board vote
+
+Ben Gondrez declined to stand for the board election due to time conflicts.
+The balance of the provisional board, plus Erik Andersen, Jim Zdunek, and
+Matthew Stein stood for election.
+
+The following votes were received:
+
+Erik Andersen  8 (elected to board)
+Steve Undy     8 (elected to board)
+Stephen Warren 8 (elected to board)
+Curt Oliver    7 (elected to board)
+Jim Zdunek     5 (elected to board)
+Mathew Stein   4
+
+(plus 1 abstention across the board)
+
+= Board Meeting
+
+== Officer selection
+
+The Board voted unanimously to assign Officers positions as follows:
+
+President:      Curt Oliver
+Vice President: Steve Undy
+Treasurer:      Erik Andersen
+Secretary:      Stephen Warren
