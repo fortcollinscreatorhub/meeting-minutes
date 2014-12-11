@@ -1,0 +1,99 @@
+Minutes of the Fort Collins Creator Hub meeting
+2014/12/10 7pm, Cohere old town
+
+= Location
+
+Carnegie building likely won't pan out; building owners looking at going a
+different direction than a member-funded open-access maker space.
+
+Jukebox Quilts basement sounds like the best bet for now. We likely need to
+get 501c3 filed before actually signing the contract. Board members agreed we
+should move forward with this as soon as practical.
+
+= Fundraising
+
+Definition of Founding Member: Give $300 by end of March 2015 (or 3 months
+after we announce the fundraising program?).
+
+Crowdsourcing site fees quite high. Let's start with ad-hoc donations (checks,
+etc.) to see if we can raise the initial ~$3000 we need file for 501c3 and
+move in to Jukebox Quilts. Let's make sure we have 501c3 ready to file before
+launching this. Board in agreement on this approach.
+
+We should write up a description of the space, why we need funds, what they'll
+be used for, and what people get out of contributing. We'll present this to
+people to solicit funds to file 501c3, pay initial rent/move-in costs, etc.
+Post this to meetup.com, our social media, have people forward it to
+co-workers, etc.
+
+AI: Brad to come up with a first version. Will run it by StephenW, Sierra,
+then once it looks reasonable, StephenW will post it to meetup, Facebook, G+,
+our website.
+
+Payment methods people will be given:
+* Given check to Erik in person.
+* Mail check to PO Box.
+* Bill pay check to PO Box.
+* Cash.
+* Paypal.
+
+AI: StephenW: Ensure donations@fortcollinscreatorhub.org and forward to Erik
+gmail.com.
+
+AI: Erik: Set up Paypal account using that address.
+
+= Making us look attractive
+
+We should add as many (non-board meeting) events on meetup.com as possible.
+
+Where can we hold these though; library limits to one per event per 5 weeks.
+
+AI: Galen: Check into CSU options.
+
+AI: Curt: Post call for events (what classes people want) on the meetup.
+
+StephenW offered a variety of talks. SteveU offered more Arduino. Curt offered
+a brewing talk. A class on bike maintenance at the bike co-op would be
+interesting.
+
+= 501c3
+
+Form is mostly filled out, almost ready. Would appreciate final review.
+
+AI: Erik: Ensure 501c3 PDF is uploaded in Drive, and is viewable once
+downloaded.
+
+AI: Board: Review the document, be ready to approve next meeting.
+
+= Bank Account
+
+Account is with First Bank.
+
+Anyone can deposit by walking into a branch, using our account name. Can
+cross-check using Curt's/Ben's name.
+
+AI: Curt to obtain check(s) from the bank, so we can write them.
+
+AI: Curt/Erik to transfer the signatures etc. within the next week or so.
+
+= PO Box
+
+Board approves setting up a PO Box at USPS Boardwalk.
+(StephenW will fund this)
+
+AI: StephenW to deposit funds 12/11.
+
+AI: StephenW/Curt to set up the PO Box ASAP.
+
+= Incorporation
+
+Board approves re-filing with new officers and PO Box as the address.
+(Curt will fund this)
+
+AI: Curt: Re-file ASAP once we have PO Box set up.
+
+= Next Meeting
+
+Wed Jan 7th. Delay due to holidays.
+
+We should try and resolve business via email without waiting for the meeting.
