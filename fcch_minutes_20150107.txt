@@ -1,0 +1,94 @@
+Minutes of the Fort Collins Creator Hub meeting
+2015/01/07 7pm, Daz Bog Coffee, Old Town
+
+Board Members present:
+
+Curt Oliver <curt@laika.cc>
+Steve Undy <steve@roseundy.net>
+Erik Andersen <andersenerikw@gmail.com>
+Stephen Warren <swarren@wwwdotorg.org>
+Jim Zdunik <rotoscopic@gmail.com>
+
+= Communication with the Library
+
+Math Stein attended to remind us to follow up with the library re: helping out
+with classes they want to run. Good for exposure of the group. Can also
+override limits on the number of events/classes/meetings we can hold there.
+
+AI: StephenW: Forward all email addresses to Math.
+AI: Math: Resend the invitation email CC all board members.
+    (StephenW found the email and forwarded it since that fulfilled both AIs)
+
+= Contact with LulzBot
+
+SteveU filled out their web form for sponsorship, and talked to Galen who
+works there. No response yet, but will follow up.
+
+= 501c3
+
+Working on incorporating comments received so far.
+
+AI: Erik:
+- Post current versin of PDF on meetup.com files site ASAO so everyone can
+  see and review it.
+- Finish incorporating comments.
+- Set up another review meeting Tue 13. We hope to finalize it.
+- Provide his brother-in-law's contact information to Rich.
+
+AI: Rich Kopcho (rich@kopcho.com):
+- Contact some/all of Colleen Ludwig, Erion Foundation (who managed Loveland
+  CreatorSpace's 501c3 application) (via LCS Board to avoid any conflicts),
+  and Erik's brother-in-law to get a lawyer to review the document.
+
+= CO corporation registration
+
+AI: Curt:
+Refile our incorporation documents with the state to cover:
+- PO Box address.
+- New bylaws.
+- New officers.
+
+= Location
+
+AI: Rich: Send the "bathroom funder"'s email address to Curt and/or the board
+to see if they'll sponsor ours.
+
+= PayPal
+
+Paypal account is set up. Diane was sent info to add links/donation buttons to
+the web site.
+
+= Funding
+
+Board liked StephenW's proposed text for Founding Fees solicitation
+message. $300 Founders Fee approved. We will send out the message as soon
+as laywer's review of 501c3 filing is approved.
+
+AI: StephenW: Update the text to:
+- Rephrase not to ask/beg for money, but to phrase it as an opportunity to
+  donate.
+- Rephrase Founding Member to Founder (to avoid implied membership).
+- Add note that we'll reserve a space to display recognition of Founders.
+  (self-created display item.)
+
+AI: SteveU: Investigate linkedin.com account/group for FCCH, and a badge for
+Founders.
+
+= Escrow etc.
+
+Board approves escrow of account information (e.g. Facebook, online banking,
+etc.) for business continuity.
+
+AI: StephenW
+- Enumerate all the accounts.
+- Enumerate the backup mechanism for them all.
+  (Multiple admins, passwords written down and stored elsewhere, etc.)
+
+= Corporate Taxes Filing
+
+AI: Erik, Curt: Meet early on Tuesday to start the taxes.
+
+= Boulder Mini Maker Faire
+
+AI: StephenW: Tell LCS yes officially. We won't plan any particular
+activities. May take personal demos.
