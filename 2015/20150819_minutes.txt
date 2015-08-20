@@ -1,0 +1,199 @@
+# Minutes of the 2015/08/19 Board meeting of the Fort Collins Creator Hub
+
+Held 7pm at Fort Collins Creator Hub
+
+## Board Members Present
+
+- Curt Oliver
+- Steve Undy
+- Erik Andersen
+- Stephen Warren
+- Jim Zdunek
+
+## Approval of 2015/07/22 minutes
+
+Done.
+
+## Treasurer's report
+
+We now have 20 members. Our income is roughly paying our rent and utlities
+etc.
+
+Diana has previously paid our annual web hosting fees. Erik reimburesed
+this.
+
+Our tax documents are all filed.
+
+## Education committee report
+
+> AI: JimZ: will contact PSD re: a "teach the teachers class".
+
+Jim talked to Elizabeth Roy re this. It's a bad time since the school year
+is just starting. He'll keep following up, making contacts, etc.
+
+Jim is talking to Erin at the Poudre library re: events there ("Maker Zoo").
+
+AI: SteveU: Add the classes he's teaching at the library to our meetup
+calendar. 2PM Sat 26 Sep: "Intro to 3D printers". Arduino class in October.
+
+## Date of our annual meeting
+
+This must happen in October, and be announced at least 8 weeks in advance.
+
+Oct 14, 21, or 28 satisfy the notification requirements. Oct 14 and 28
+currently have FCCH meetings scheduled.
+
+The board voted to hold the annual meeting on Oct 14th.
+
+## Upcoming events
+
+### Fort Collins Comic Con
+
+AI: Erik: Check with Jamie what our commitment is re: the shared booth. Do
+we need to bring a project, just provide people, ...?
+
+### Northern Colorado Maker Faire (and demo/activity)
+
+We discussed this in the general meeting. We'll do a large-scale interactive
+snake meeting.
+
+AI: StephenW: Set up meetup next Wed to plan/build this.
+
+AI: SteveU: Order stickers to give out at the faire.
+
+The board voted to spend up to $500 on projects to display at the faire,
+and re-use for similar events in the future. Elise may have some grants
+available to subsidise this too.
+
+AI: Curt: Talk to Elise re: how to apply for the grants. 
+
+### Rocky Mountain STEAMfest
+
+This is Boulder's maker faire renamed. Sep 5-6th. We're not planning on
+attending this.
+
+### Halloween
+
+Ideas welcome re: things to do for Halloween. Party, interactive exhibits,
+costume classes, ...?
+
+## Congressman visit
+
+> AI: SteveU: Contact Jared's event manager to confirm that press presence is
+> OK [when he visits our space].
+
+Confirmed. A press release was issued by Farra.
+
+Event is ocurring 3PM Thu Aug 20th.
+
+## Corporate sponsorship document
+
+> AI: Farra: Incorporate any changes we request to the [sponsorship document].
+> Generate a Google Doc version for our archive purposes.
+
+Farra wasn't present to report. Discussion deferred.
+
+## Publicity
+
+> AI: Farra: Contact various educational institutions such as PSD, CSU, College
+> America, AIMs, IBMC, ... Once the sponsorship packet is approved, also contact)
+> various larger local businesses.
+
+Farra wasn't present to report. Discussion deferred.
+
+> AI: Curt: Contact the bike co-op.
+
+Not contacted yet.
+
+> AI: StephenW: Put a laser cutter video up on youtube and link from our
+> website.
+
+Done.
+
+> AI: Curt: Investigate Google Grants.
+
+They'll give use $10,000 free adwords over some limited amount of time.
+Not signed up yet.
+
+Michael Churchill has experience doing this.
+
+AI: Sign up our Google AdWords account, and talk to Michael to get advice.
+
+## Equipment
+
+### 3D printer
+
+> > AI: SteveU: Contact Lulzbot to see if they want to give us [advertizing]
+> > materials.
+>
+> SteveU will ask when he contacts them to get the PSU fixed.
+> 
+> Taz 5 power supply has died (apparently a common issue). SteveU is in contact
+> with Lulzbot to get a replacement.
+
+Done.
+
+The board voted to spend up to $200 at SteveU's discretion on new 3D printer
+filament.
+
+AI: SteveU: Purchase the filament from Jamie.
+
+AI: SteveU: Put out a small box for payment for filament, and a simple sign
+stating the cost.
+
+### Setup/maintenance
+
+> AI: Curt: Build or find a bench to put the CNC machine on, so it's usable.
+
+Done.
+
+> AI: Erik: Contact Loveland CreatorSpace to see if they have any LCD monitors
+> we could acquire. Perhaps 3-4 desktop PCs too if possible so we don't tie up
+> our laptops running machines like 3D printers and laser cutters.
+
+Done.
+
+Loveland CreatorSpace is receiving 10 laptops from the Sherrif's office, and
+has arranged for use to get 10 too.
+
+### Arts/crafts station
+
+> AI: StephenW: Finalize art/crafts tools/supplies spreadsheet created by TinaW
+> and email it to the board for consideration.
+
+Done.
+
+AI: StephenW: Send a link to the doc to our mailing list. Ask if it would
+bring new members in, or if people would teach classes using the equipment.
+
+Erik asked if the list covers knitting (materials, books or other learning
+materials, ...)
+
+Curt mentioned that a library was a very popular part of Hammer Time, a tool
+co-op that used to exist in Fort Collins.
+
+### Laser cutter/engraver
+
+If needed, discussions re: future purchase of a high-end laser cutter.
+
+Hugh wasn't present, so we didn't discuss this.
+
+## Tier4 proposal
+
+> AI: Curt: Update the [tier 4 proposal document] that proposes how we
+> interact with Tier 4.
+
+David withdrew his offer to work with FCCH as "a favored group". As such, FCCH
+plans to mature as an organization and review our options at a future time.
+
+## Any other business
+
+### CAD SW
+
+Dave Graham is investigating obtaining a donated version of PTC Creo.
+
+StephenA requested SolidWorks.
+
+### Purchase of lockers
+
+Curt found some lockers for $120. The board approved the purchase.
