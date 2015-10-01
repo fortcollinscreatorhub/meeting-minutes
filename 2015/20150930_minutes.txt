@@ -1,0 +1,90 @@
+# Minutes og the 2015/09/30 Board meeting of the Fort Collins Creator Hub
+
+Held 7pm at Fort Collins Creator Hub
+
+## Board Members Present
+
+- Curt Oliver (part)
+- Steve Undy
+- Erik Andersen
+- Stephen Warren
+- Jim Zdunek
+
+## Treasurer's report
+
+> Discuss Eric's proposal to create a set of pre-approved budgets, such as
+> operations, equipment, events/project, etc.
+
+Not discussed.
+
+## Planning for upcoming Maker Faire
+
+### General planning
+
+SteveU will create a signup genius schedule so people can sign up to staff
+our booth. We also need people to staff the snake game. SteveU will post a link
+so people can sign up.
+
+StephenW will post a general "Maker Faire is coming up" post everywhere for
+general advertisement purposes.
+
+### Snake project construction
+
+Project is almost complete MikeM and StephenW putting the final pieces together.
+
+### Classes
+
+We'd like to schedule a number of classes and have a list to give out at the
+Maker Faire.
+
+If you want to teach a class, email board@fortcollinscreatorhub.org with the
+details and we can get it scheduled.
+
+Proposals for classes & volunteers:
+
+- git: Hugh Wallace (git), Stephen Warren (github)
+
+- Solder an electronic clock kit: Steve Undy
+
+- LASER cutter training: Stephen Warren
+
+- Eagle CAD howto: Stephen Warren
+
+- Basic 3D printing: Steve Undy
+
+- Various CAD tools, whole workflow (OpenSCAD, Sketchup, ...): ???
+
+- Arduino: Steve Undy
+
+- Whole product workflow series: Circuit + soldering + LASER cut face +
+3D-printed case/fitting: ???
+
+- Sous-Vide cooking: Mike Michaud
+
+- Home-brewing beer: ??? (Hugh's friend might be talked into this, Lou
+Sharpe will talk to Hops & Berries to see if they might do this)
+
+- Garment making: ???
+
+- Fabric arts: ???
+
+- Autonomous vehicles & Rover Rally talk: Brian Dickman has volunteered;
+JimZ is working on scheduling this.
+
+- Electronic test equipment ('scopes, volt-meters): Steve Undy, Lou Sharpe.
+
+- Stained glass: JimZ.
+
+## Any other business
+
+### Suggestions for the space
+
+- Youtube channel with training videos. We can put QR codes or URLs on the
+equipment to hightlight the information.
+
+- "Brag shelf" to show off the projects makers have done, for marketing and
+inspiration reasons.
+
+### Annual meeting
+
+It's coming up in two weeks; please come and vote on board membership.
